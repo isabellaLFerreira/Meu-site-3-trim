@@ -11,8 +11,13 @@ header {
 
  .logo {
      width:25%
+}
 
- }
+p { 
+
+    font-size: 30px;
+    text-align: center;
+     }
 
 nav {
 	position: absolute;
@@ -31,4 +36,13 @@ nav a {
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
+}
+
+
+.figura1 {
+    width: 30%
+
+}
+.figura2 {
+	width: 30%;
 }
